@@ -1,0 +1,301 @@
+Zeeconvent  Data
+==================================================
+
+## Media Sections ##
+[
+  {
+    "section_title": "Het huis",
+    "section_subtitle": "Gelijkvloers",
+    "items": [
+      {
+        "title": "Living",
+        "subtitle": "Ruime living met zithoek",
+        "text": "haardvuur, WiFi, tv met kabelaanbod Telenet, radio, dvd-speler, kindertafeltje met stoeltjes",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_1/1434410/434972_346315.png",
+        "details_url": ""
+      },
+      {
+        "title": "Eetplaats",
+        "subtitle": "Eetplaats met 6 stoelen en babystoeltje",
+        "text": "Alles voorhanden om uitgebreid te kunnen tafelen",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_1/1434410/254812_773174.png",
+        "details_url": ""
+      },
+      {
+        "title": "Keuken",
+        "subtitle": "Modern ingerichte keuken",
+        "text": "gasfornuis, dampkap, oven, microgolfoven, koelkast met diepvriesvak, vaatwasmachine, wasmachine",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_1/1434410/666266_435930.png",
+        "details_url": ""
+      },
+      {
+        "title": "Badkamer",
+        "subtitle": "Badkamer met inloopdouche",
+        "text": "2 wastafels, spiegelkasten",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_1/1434410/608916_111049.png",
+        "details_url": ""
+      }
+    ]
+  },
+  {
+    "section_title": "Het huis",
+    "section_subtitle": "Bovenverdieping",
+    "items": [
+      {
+        "title": "Slaapkamer 1",
+        "subtitle": "Slaapkamer voor 2 personen",
+        "text": "tweepersoonsbed",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_1/1434410/566137_715832.png",
+        "details_url": ""
+      },
+      {
+        "title": "Slaapkamer 2",
+        "subtitle": "Slaapkamer voor 2 personen",
+        "text": "eenpersoonsbed + uitschuifbare matras als eenpersoonsbed, wastafel",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_1/1434410/964935_705837.png",
+        "details_url": ""
+      },
+      {
+        "title": "Slaapkamer 3",
+        "subtitle": "Slaapkamer voor 3 personen",
+        "text": "stapelbed + uitschuifbare matras als eenpersoonsbed, wastafel, kinderbedje, ververstafel",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_1/1434410/552155_558162.png",
+        "details_url": ""
+      }
+    ]
+  },
+  {
+    "section_title": "De tuin",
+    "section_subtitle": "",
+    "items": [
+      {
+        "title": "Tuin",
+        "subtitle": "totale oppervlakte van 500m²",
+        "text": "volledig omheind, terras, 2 ligzetels, tuintafel met 6 stoelen, barbecue",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_1/1434410/641123_236703.png",
+        "details_url": ""
+      },
+      {
+        "title": "Voorkant",
+        "subtitle": "",
+        "text": "parkeerplaats voor 2 auto's, garagebox",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_1/1434410/398901_924425.png",
+        "details_url": ""
+      }
+    ]
+  },
+  {
+    "section_title": "Omgeving",
+    "section_subtitle": "Wat te doen in Koksijde en omgeving?",
+    "items": [
+      {
+        "title": "De Hoge Blekker - Koksijde",
+        "subtitle": "",
+        "text": "Met zijn 33m is hij de hoogste duin van heel de kuststrook. De Hoge Blekker is perfect te verkennen met een wandeling via de Ijslandvaardersroute.",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/1434410/68de8cfc-e5f6-430e-a291-c553784ca4e0_uicasa.jpg",
+        "details_url": "https://www.dekust.be/nl/doen/duin-de-hoge-blekker"
+      },
+      {
+        "title": "Westhoek Natuurreservaat",
+        "subtitle": "",
+        "text": "In De Panne vind je het oudste Vlaamse natuurreservaat.",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/1434410/e14e403a-7369-47cb-aa1c-e8d4369db223_z0u4cf.png",
+        "details_url": "https://depanne.com/nl/westhoek.php"
+      },
+      {
+        "title": "Bezoekerscentrum Duinpanne - De Panne",
+        "subtitle": "",
+        "text": "In het Provinciaal Bezoekerscentrum Duinpanne ontdek je de pracht van de regio en de natuurlijke omgeving.",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/1434410/04786c5e-748d-495c-8788-3855ea249b07_kg74bu.jpg",
+        "details_url": "https://www.west-vlaanderen.be/domeinen/duinpanne"
+      },
+      {
+        "title": "Abdijmuseum Ten Duinen - Koksijde",
+        "subtitle": "",
+        "text": "Een bezoek aan het Abdijmuseum doet je in alle rust wandelen langsheen haar oude muuropstanden, omgeven door prachtige natuur.",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/1434410/Ten_Duinen_ztxvi6.jpg",
+        "details_url": "https://www.tenduinen.be/nl"
+      },
+      {
+        "title": "Zuid-Abdijmolen - Koksijde",
+        "subtitle": "",
+        "text": "De Zuid-Abdijmolen van Koksijde dateert van 1773 en is zeker een bezoekje waard.",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/1434410/f09862d8-d4be-46f9-b9db-dbad0666a5da_bjvaoz.jpg",
+        "details_url": "https://www.tenduinen.be/nl/beklim-de-zuid-abdijmolen"
+      },
+      {
+        "title": "Nationaal Visserijmuseum - Oostduinkerke",
+        "subtitle": "",
+        "text": "In het NAVIGO-Nationaal Visserijmuseum maak je kennis met de Vlaamse vissersfamilie, de heroïsche IJslandvaarders en de garnaalvissers te paard.",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/1434410/6689cb2c-e2c8-49d8-b3d2-d08a3c58dcc0_ojbei1.jpg",
+        "details_url": "https://www.navigomuseum.be/nl"
+      },
+      {
+        "title": "Cinema Koksijde",
+        "subtitle": "",
+        "text": "Cinema Koksijde biedt 6 zalen filmplezier.",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/1434410/ede1585f-3c02-441a-8e2a-539901210b9b_kilrle.jpg",
+        "details_url": "https://www.cinemakoksijde.be/"
+      },
+      {
+        "title": "Plopsaland De Panne",
+        "subtitle": "",
+        "text": "Bezoek Plopsaland De Panne en ontmoet je Studio 100 helden: K3, Bumba, Kabouter Plop, Mega Mindy, Amika ...",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/1434410/17cbc8ae-f79d-4106-9f2c-c4aa93301cfa_guxxro.jpg",
+        "details_url": "https://www.plopsalanddepanne.be/nl"
+      },
+      {
+        "title": "Aquafun Sunpark Oostduinkerke",
+        "subtitle": "",
+        "text": "In dit overdekt waterparadijs kunnen jij en je kinderen altijd terecht voor eindeloos waterplezier.",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/1434410/7bc24b72-8643-4dc4-ab7f-a71f3ab3bf79_frj0nd.jpg",
+        "details_url": "https://www.dekust.be/nl/doen/sunparks-oostduinkerke-aquafun"
+      },
+      {
+        "title": "Kinderboerderij De Lenspolder - Nieuwpoort",
+        "subtitle": "",
+        "text": "Laat je kinderen het boerderijleven ontdekken met een bezoek aan Kinderboerderij De Lenspolder.",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/1434410/96d34751-646f-4563-9f67-e239cd1493c6_i51qs4.png",
+        "details_url": "https://www.facebook.com/Kinderboerderijnieuwpoort"
+      },
+      {
+        "title": "Paul Delvaux Museum - Sint-Idesbald",
+        "subtitle": "",
+        "text": "Het Paul Delvaux Museum in Sint-Idesbald toont de grootste verzameling ter wereld van deze internationaal befaamde kunstenaar.",
+        "image_url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_1/1434410/d2f715ff-8f4a-4e99-b390-51e53a192bd9_oyfynu.png",
+        "details_url": "http://www.delvauxmuseum.com/index_nl.html"
+      }
+    ]
+  }
+]
+
+## Gallery Section ##
+[
+  {
+    "title": "Foto's",
+    "subtitle": "Overzicht foto's",
+    "images": [
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/908037_623315.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/DSC_0015_cm25au.jpg",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/DSC_0033_jheurk.jpg",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/DSC_0039_2_ueaxip.jpg",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/398901_924425.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/318121_31668.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/845433_470091.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/222845_954643.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/658855_740902.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/803313_441282.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/145907_988655.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/876827_17395.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/671226_506520.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/238267_499562.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/521074_797657.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/704520_172363.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/DSC_0116_2_ayvbls.jpg",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/50005_715539.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/505653_973434.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/12fb0df9-ef58-41ce-a877-f24513c6cc72_nlaxta.jpg",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/180350_932695.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/192736_212554.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/26002_498897.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/633139_209751.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/532061_558332.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/c83fcf54-a2ff-4d33-ac1d-0b658061e47a_qmn33h.jpg",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/705827_345779.png",
+      "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_fill,fl_lossy,h_200,w_200,f_auto,g_faces:auto,q_1/1434410/993379_73717.png"
+    ]
+  }
+]
+
+## Slide Section ##
+{
+  "title": "Over",
+  "subtitle": "Op zoek naar de ideale vakantieplek om lekker uit te waaien en toch niet te ver? Dan heten wij jou welkom in ons kindvriendelijk vakantiehuis te Koksijde aan de Belgische kust. Het is de perfecte combinatie van rust, comfort en gezelligheid en een goede uitvalbasis voor een afwisselende vakantie. Brede zandstranden, uitgestrekt duinengebied en ongerepte natuurreservaten ontdek je al fietsend of wandelend.Ons zongericht vakantiehuis voor 6 personen met eigen tuin en terras is gelegen in een groene, rustige villawijk op wandelafstand van het centrum en op 1km van de zee.De woning beschikt over een moderne keuken met koelkast, diepvries, microgolfoven, vaatwasmachine en wasmachine. Alle benodigdheden voor baby en peuter zijn aanwezig, zie praktische info. De gezellige tuin is voorzien van een barbecue, tuintafel met stoelen, een parasol en 2 ligzetels."
+}
+
+## Day Trips ##
+{
+  "title": "Daguitstappen",
+  "subtitle": "Nabijheid grote steden :",
+  "trips": [
+    {
+      "place": "Brugge",
+      "distance(km)": "491",
+      "time(min)": "45"
+    },
+    {
+      "place": "De Panne",
+      "distance(km)": "53",
+      "time(min)": "9"
+    },
+    {
+      "place": "Ieper",
+      "distance(km)": "366",
+      "time(min)": "40"
+    },
+    {
+      "place": "Nieuwpoort",
+      "distance(km)": "92",
+      "time(min)": "14"
+    },
+    {
+      "place": "Oostende",
+      "distance(km)": "338",
+      "time(min)": "32"
+    },
+    {
+      "place": "Veurne",
+      "distance(km)": "63",
+      "time(min)": "9"
+    }
+  ]
+}
+
+## Rental Prices ##
+{
+  "Hoogseizoen": {
+    "date_info": "juli en augustus excl. topseizoen herfst-, kerst-, krokus- en paasvakantie",
+    "prices": {
+      "1 week": "€880",
+      "2 weken": "€1660"
+    }
+  },
+  "Middenseizoen": {
+    "date_info": "mei, juni en september",
+    "prices": {
+      "Midweek  (4 nachten)": "€420",
+      "1 week": "€650",
+      "2 weken": "€1100",
+      "Weekend  (3 nachten)": "€460"
+    }
+  },
+  "Laagseizoen": {
+    "date_info": "oktober tot en met april",
+    "prices": {
+      "Midweek  (4 nachten)": "€360",
+      "1 week": "€500",
+      "2 weken": "€900",
+      "Weekend  (3 nachten)": "€410"
+    }
+  }
+}
+
+## Practical Info ##
+{
+  "Schoonmaak": "Er worden 1 vuilniszak en 2 PMD-zakken ter beschikking gesteld. Huisvuil (restafval) en PMD (plastiek flessen en flacons, metalen verpakkingen en drankkartons) worden wekelijks afgehaald volgens een bepaald schema. Een folder met dit schema ligt in de villa.  Eindschoonmaak is verplicht en hiervoor wordt €100 van de waarborg afgetrokken.",
+  "Folders": "Foldersmet bezienswaardigheden, wandel- en fietsroutes liggen in de villa ter beschikking.",
+  "Linnen": "Linnen is niet voorzien, maar optioneel kan linnen ter beschikking gesteld worden tegen een huurprijs van €18 per persoon (voor een tweepersoonsbed worden twee linnensets aangerekend).",
+  "Waarborg": "We vragen een waarborg van €400. Deze wordt 2 weken na vertrek teruggestort na grondig nazicht van de villa.",
+  "Aankomst- en vertrekuur": "De huurperiode loopt van 17u, de eerste dag (aankomstuur) tot 10u, de laatste dag (vertrekuur).  De sleutels (2 exemplaren) worden ter plaatse in de villa overhandigd door de conciërge. (bij verlies van een sleutel wordt een forfait van €30 gevraagd)",
+  "Voor de jongsten": "Alle benodigdheden zijn aanwezig voor baby en peuter: ververstafel, kindertafel met stoeltjes, kinderfauteuil, triptrap stoel, babybedje, bolderkar, speelmat en speelgoed. Daarnaast is de tuin volledig omheind en dus kindvriendelijk.",
+  "Grondplannen": ""
+}
+
+## Contact Info ##
+{
+  "e-mail": "virginie.demeester@zeeconvent.be",
+  "gsm-nummer": "+32 484 73 85 18",
+  "adres": "Hagedoornstraat 29 8670 Koksijde België"
+}
+
+Total Time Taken: 0.87 seconds
