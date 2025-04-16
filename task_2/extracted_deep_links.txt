@@ -1,42 +1,77 @@
-Register: https://www.citadelplc.com/register-customer/
-Login, My account, Log into my account: https://www.citadelplc.com/my-account/
-Chat, Close Search , Business, Business Insurance, Close Menu : https://www.citadelplc.com/business
-Menu Item, Home: https://www.citadelplc.com/
-Personal, Personal Insurance: https://www.citadelplc.com/personal
-Health Insurance: https://www.citadelplc.com/health-insurance/
-Life Insurance: https://www.citadelplc.com/life-insurance
-Home Insurance: https://www.citadelplc.com/home-insurance
-Motor Insurance: https://www.citadelplc.com/motor-insurance
-Travel Insurance: https://www.citadelplc.com/travel-insurance
-Marine Insurance: https://www.citadelplc.com/marine-insurance
-Weddings Insurance: https://www.citadelplc.com/weddings-insurance
-Small & Medium Enterprises, more info: https://www.citadelplc.com/small-medium-enterprises
-Corporate, more info: https://www.citadelplc.com/corporate
-School Insurance, more info: https://www.citadelplc.com/school-insurance
-Hotel, more info: https://www.citadelplc.com/hotel
-Construction And Engineering, more info: https://www.citadelplc.com/construction-and-engineering
-Liability, more info: https://www.citadelplc.com/liability
-Motor Fleet, more info: https://www.citadelplc.com/motor-fleet
-Employee Benefits, more info: https://www.citadelplc.com/employee-benefits
-Marine Cargo, more info: https://www.citadelplc.com/marine-cargo
-Who we are: https://www.citadelplc.com/citadel-insurance-its-past-present-and-future
-Corporate Social Responsibility: https://www.citadelplc.com/corporate-social-responsibility
-Publications: https://www.citadelplc.com/publications
-Careers: https://www.citadelplc.com/careers/
-Business Relations: https://www.citadelplc.com/business-relations
-news: https://www.citadelplc.com/news-5
-blog: https://www.citadelplc.com/blog
-Downloads: https://www.citadelplc.com/downloads/
-Where to find us: https://www.citadelplc.com/where-to-find-us
-Tied Insurance Intermediaries: https://www.citadelplc.com/tied-insurance-intermediaries
-Contact us, get a quote: https://www.citadelplc.com/contact
-Complaints: https://www.citadelplc.com/complaints
- : https://www.citadelplc.com/small-medium-enterprises/
-Health Insurance: https://www.citadelplc.com/health-insurance
-Get a quote and buy online: https://www.citadelplc.com/personal/
-Make a payment: https://www.citadelplc.com/make-payment/
-Make a claim: https://www.citadelplc.com/make-a-claim/
-Update personal details: https://www.citadelplc.com/my-account/edit-account/
-Update my cover: https://www.citadelplc.com/my-account/policy-request/
-Privacy Policy: https://www.citadelplc.com/privacy-policy
-Find more information on our Privacy Policy page.: https://www.citadelplc.com/privacy-policy/
+: https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-2282696-2848241:KX34B95Q1APJFHTX6CJ7$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DKX34B95Q1APJFHTX6CJ7:0
+ .us : https://www.amazon.com/ref=nav_logo
+ Deliver to  India  , _Previous slide_, _Next slide_, : https://www.amazon.com/
+ EN : https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang_ais
+ Hello, sign in Account & Lists  : https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3F_encoding%3DUTF8%26ref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+ Returns & Orders : https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first
+ 0 Cart  : https://www.amazon.com/gp/cart/view.html?ref_=nav_cart
+Today's Deals: https://www.amazon.com/gp/goldbox?ref_=nav_cs_gb
+Prime Video: https://www.amazon.com/Amazon-Video/b/?ie=UTF8&node=2858778011&ref_=nav_cs_prime_video
+Registry: https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry
+Gift Cards: https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc
+Customer Service: https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_customerservice
+Sell: https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell
+Disability Customer Support: https://www.amazon.com/gp/help/customer/accessibility
+Click here to go to amazon.in: https://www.amazon.com/gp/redirect.html/?ie=UTF8&_encoding=UTF8&location=https%3A%2F%2Fwww.amazon.in%2F%3Fref%3Daisgw_intl_stripe_in&source=standards&token=91F73851318D7EEF2C0295B2C04EF4042B988FD2&pd_rd_w=0DAEK&content-id=amzn1.sym.ad7e52ed-7e0b-44e3-85c1-b8a893426b20&pf_rd_p=ad7e52ed-7e0b-44e3-85c1-b8a893426b20&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=KsH8A&pd_rd_r=c84c99b2-40bb-4137-9847-554262b1d3f1&ref_=pd_hp_d_atf_unk
+See more: https://www.amazon.com/b/?_encoding=UTF8&node=23508887011&pd_rd_w=nDvbn&content-id=amzn1.sym.12129333-2117-4490-9c17-6d31baf0582a&pf_rd_p=12129333-2117-4490-9c17-6d31baf0582a&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=KsH8A&pd_rd_r=c84c99b2-40bb-4137-9847-554262b1d3f1&ref_=pd_hp_d_atf_unk
+Discover more in Home: https://www.amazon.com/s/?_encoding=UTF8&k=home&pd_rd_w=vnTvg&content-id=amzn1.sym.83009b1f-702c-4be7-814b-0240b8f687d2&pf_rd_p=83009b1f-702c-4be7-814b-0240b8f687d2&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=KsH8A&pd_rd_r=c84c99b2-40bb-4137-9847-554262b1d3f1&ref_=pd_hp_d_atf_unk
+See all deals: https://www.amazon.com/gp/goldbox/?ie=UTF8&ref_=nav_cs_gb&deals-widget=%257B%2522version%2522%253A1%252C%2522viewIndex%2522%253A0%252C%2522presetId%2522%253A%252215E8DB96732AF8CA9C14916141BB1C4C%2522%252C%2522departments%2522%253A%255B%25227147440011%2522%252C%25227192394011%2522%252C%2522679337011%2522%252C%25226358543011%2522%255D%252C%2522sorting%2522%253A%2522FEATURED%2522%257D&pd_rd_w=FG4OC&content-id=amzn1.sym.56e14e61-447a-443b-9528-4b285fddeeac&pf_rd_p=56e14e61-447a-443b-9528-4b285fddeeac&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=KsH8A&pd_rd_r=c84c99b2-40bb-4137-9847-554262b1d3f1
+Explore all products in Kitchen: https://www.amazon.com/s/?_encoding=UTF8&k=kitchen%20products&pd_rd_w=daLf0&content-id=amzn1.sym.2f889ce0-246f-467a-a086-d9a721167240&pf_rd_p=2f889ce0-246f-467a-a086-d9a721167240&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=KsH8A&pd_rd_r=c84c99b2-40bb-4137-9847-554262b1d3f1&ref_=pd_hp_d_atf_unk
+Shop the latest from Home: https://www.amazon.com/s/?_encoding=UTF8&k=home&i=garden&rh=n%3A1055398%2Cp_36%3A-5000&s=exact-aware-popularity-rank&dc=&pd_rd_w=1RrqQ&content-id=amzn1.sym.323d0286-4a11-49aa-bed8-b1096b240d7b&pf_rd_p=323d0286-4a11-49aa-bed8-b1096b240d7b&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=KsH8A&pd_rd_r=c84c99b2-40bb-4137-9847-554262b1d3f1&ref_=pd_hp_d_atf_unk
+See more: https://www.amazon.com/s/?_encoding=UTF8&k=home%20and%20kitchen&pd_rd_w=bPFHd&content-id=amzn1.sym.5a1e43ac-8800-488a-812b-a43cf4218174&pf_rd_p=5a1e43ac-8800-488a-812b-a43cf4218174&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=KsH8A&pd_rd_r=c84c99b2-40bb-4137-9847-554262b1d3f1&ref_=pd_hp_d_atf_unk
+Discover more: https://www.amazon.com/s/?_encoding=UTF8&k=electronics&pd_rd_w=GMvEO&content-id=amzn1.sym.95e3c82b-9ea6-43eb-b61b-74b03c38d434&pf_rd_p=95e3c82b-9ea6-43eb-b61b-74b03c38d434&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=drLiH&pd_rd_r=edea06f9-f9d5-4d63-8a72-4076c295f8d8&ref_=pd_hp_d_btf_unk
+Discover more: https://www.amazon.com/gp/goldbox/?ie=UTF8&pd_rd_w=pb9jM&content-id=amzn1.sym.8a64fefa-e450-4bbe-83a4-970ea696b46d&pf_rd_p=8a64fefa-e450-4bbe-83a4-970ea696b46d&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=drLiH&pd_rd_r=edea06f9-f9d5-4d63-8a72-4076c295f8d8&ref_=pd_hp_d_btf_unk
+Discover more: https://www.amazon.com/s/?_encoding=UTF8&k=travel&pd_rd_w=fyS8Z&content-id=amzn1.sym.1faf5a75-f10d-481a-9299-d0fe2e7649bd&pf_rd_p=1faf5a75-f10d-481a-9299-d0fe2e7649bd&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=drLiH&pd_rd_r=edea06f9-f9d5-4d63-8a72-4076c295f8d8&ref_=pd_hp_d_btf_unk
+Discover more: https://www.amazon.com/s/?_encoding=UTF8&k=fitness%20gear&pd_rd_w=mNygM&content-id=amzn1.sym.3fdbc1ee-e2a3-48ef-a93a-bce40e980706&pf_rd_p=3fdbc1ee-e2a3-48ef-a93a-bce40e980706&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=drLiH&pd_rd_r=edea06f9-f9d5-4d63-8a72-4076c295f8d8&ref_=pd_hp_d_btf_unk
+See more: https://www.amazon.com/b/?_encoding=UTF8&node=23508887011&pd_rd_w=V0g7w&content-id=amzn1.sym.09483392-9ac6-434a-a3d7-39d83662f54a&pf_rd_p=09483392-9ac6-434a-a3d7-39d83662f54a&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=drLiH&pd_rd_r=edea06f9-f9d5-4d63-8a72-4076c295f8d8&ref_=pd_hp_d_btf_unk
+Discover more: https://www.amazon.com/s/?_encoding=UTF8&k=computers&pd_rd_w=neNNn&content-id=amzn1.sym.4d71698b-309b-46ab-ad93-6701581285d6&pf_rd_p=4d71698b-309b-46ab-ad93-6701581285d6&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=drLiH&pd_rd_r=edea06f9-f9d5-4d63-8a72-4076c295f8d8&ref_=pd_hp_d_btf_unk
+Discover more: https://www.amazon.com/s/?_encoding=UTF8&k=watches&pd_rd_w=VcSXC&content-id=amzn1.sym.db94be39-53f1-4c79-89b2-88aa81be709e&pf_rd_p=db94be39-53f1-4c79-89b2-88aa81be709e&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=drLiH&pd_rd_r=edea06f9-f9d5-4d63-8a72-4076c295f8d8&ref_=pd_hp_d_btf_unk
+Shop More: https://www.amazon.com/s/?_encoding=UTF8&k=vacation%20must%20haves&pd_rd_w=DVNEs&content-id=amzn1.sym.e0870a2a-3b8f-43b4-b7d1-1cd06307771f&pf_rd_p=e0870a2a-3b8f-43b4-b7d1-1cd06307771f&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=drLiH&pd_rd_r=edea06f9-f9d5-4d63-8a72-4076c295f8d8&ref_=pd_hp_d_btf_unk
+See more: https://www.amazon.com/s/?_encoding=UTF8&k=beauty%20and%20personal%20care&pd_rd_w=Tkg0d&content-id=amzn1.sym.cfffd636-af52-48ff-a5dc-4f273c40ec67&pf_rd_p=cfffd636-af52-48ff-a5dc-4f273c40ec67&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=drLiH&pd_rd_r=edea06f9-f9d5-4d63-8a72-4076c295f8d8&ref_=pd_hp_d_btf_unk
+See more: https://www.amazon.com/s/?_encoding=UTF8&k=computers%20and%20accessories&pd_rd_w=CnkIN&content-id=amzn1.sym.1d3b8f55-c47a-4b7f-a127-3409d1ca6dd1&pf_rd_p=1d3b8f55-c47a-4b7f-a127-3409d1ca6dd1&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=drLiH&pd_rd_r=edea06f9-f9d5-4d63-8a72-4076c295f8d8&ref_=pd_hp_d_btf_unk
+Explore all in Beauty: https://www.amazon.com/s/?_encoding=UTF8&k=beauty&pd_rd_w=GkMWK&content-id=amzn1.sym.e41e40a2-6179-4ac1-9eea-477d5e2e5e97&pf_rd_p=e41e40a2-6179-4ac1-9eea-477d5e2e5e97&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=drLiH&pd_rd_r=edea06f9-f9d5-4d63-8a72-4076c295f8d8&ref_=pd_hp_d_btf_unk
+See all: https://www.amazon.com/s/?_encoding=UTF8&k=toys&pd_rd_w=9VmIA&content-id=amzn1.sym.db4c8a8b-ebce-43d6-afeb-c39934278ec6&pf_rd_p=db4c8a8b-ebce-43d6-afeb-c39934278ec6&pf_rd_r=KX34B95Q1APJFHTX6CJ7&pd_rd_wg=drLiH&pd_rd_r=edea06f9-f9d5-4d63-8a72-4076c295f8d8&ref_=pd_hp_d_btf_unk
+ View or edit your browsing history : https://www.amazon.com/gp/history
+Careers: https://www.amazon.jobs
+Blog: https://blog.aboutamazon.com/?utm_source=gateway&utm_medium=footer
+About Amazon: https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer
+Investor Relations: https://www.amazon.com/ir
+Amazon Devices: https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices
+Amazon Science: https://www.amazon.science
+Sell products on Amazon: https://services.amazon.com/sell.html?ld=AZFSSOA&ref_=footer_soa
+Sell on Amazon Business: https://services.amazon.com/amazon-business.html?ld=usb2bunifooter&ref_=footer_b2b
+Sell apps on Amazon: https://developer.amazon.com
+Become an Affiliate: https://affiliate-program.amazon.com/
+Advertise Your Products: https://advertising.amazon.com/?ref=ext_amzn_ftr
+Self-Publish with Us: https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing
+Host an Amazon Hub: https://go.thehub-amazon.com/amazon-hub-locker
+See More Make Money with Us: https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore
+Amazon Business Card: https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8
+Shop with Points: https://www.amazon.com/gp/browse.html?node=16218619011&ref_=footer_swp
+Reload Your Balance: https://www.amazon.com/dp/B0CHTVMXZJ?th=1?ref_=footer_reload_us
+Amazon Currency Converter: https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx
+Amazon and COVID-19: https://www.amazon.com/gp/help/customer/display.html?nodeId=GDFU3JS5AL6SYHRD&ref_=footer_covid
+Your Account: https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya
+Your Orders: https://www.amazon.com/gp/css/order-history?ref_=footer_yo
+Shipping Rates & Policies: https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates
+Returns & Replacements: https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4
+Manage Your Content and Devices: https://www.amazon.com/gp/digital/fiona/manage?ref_=footer_myk
+Help: https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he
+ : https://www.amazon.com/?ref_=footer_logo
+ English : https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang
+ $USD - U.S. Dollar : https://www.amazon.com/customer-preferences/edit?ie=UTF8&ref_=footer_cop&preferencesReturnUrl=%2F
+ United States : https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp
+Amazon MusicStream millionsof songs: https://music.amazon.com?ref=dm_aff_amz_com
+Amazon AdsReach customerswherever theyspend their time: https://advertising.amazon.com/?ref=footer_advtsing_amzn_com
+Sell on AmazonStart a Selling Account: https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell
+VeeqoShipping SoftwareInventory Management: https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer
+Amazon BusinessEverything ForYour Business: https://www.amazon.com/business?ref_=footer_retail_b2b
+AmazonGlobalShip OrdersInternationally: https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal
+Amazon Web ServicesScalable CloudComputing Services: https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter
+Kindle Direct PublishingIndie Digital & Print PublishingMade Easy : https://kdp.amazon.com
+Prime Video DirectVideo DistributionMade Easy: https://videodirect.amazon.com/home/landing
+Amazon Subscription BoxesTop subscription boxes – right to your door: https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa
+Conditions of Use: https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou
+Privacy Notice: https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy
+Consumer Health Data Privacy Disclosure: https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy
+Your Ads Privacy Choices: https://www.amazon.com/privacyprefs?ref_=footer_iba

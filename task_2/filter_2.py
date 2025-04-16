@@ -1,14 +1,17 @@
 import asyncio
 import re
 from collections import defaultdict
-from crawl4ai import AsyncWebCrawler
+from crawl4ai import AsyncWebCrawler, CrawlerRunConfig
 import google.generativeai as genai
 import tldextract
+from dotenv import load_dotenv
+import os
 
 # Function to initialize Google GenAI
 def initialize_genai():
     """Initialize Google GenAI"""
-    apikey = 'AIzaSyCMfQV4VkjxA3hMItXgVIZwPpnIL7mJrDw'  
+    load_dotenv()
+    apikey = os.getenv("API_KEY")  
     genai.configure(api_key=apikey)
     model = genai.GenerativeModel('gemini-1.5-flash')
     return model
@@ -17,9 +20,9 @@ def initialize_genai():
 async def crawl_website(url):
     async with AsyncWebCrawler() as crawler:
         result = await crawler.arun(url=url)
-        with open("C:/Users/TumpudiKarthikeya/Desktop/pro/task_2/output.md", "w", encoding='utf-8') as f:
+        with open("f2_output.md", "w", encoding='utf-8') as f:
             f.write(result.markdown)
-        with open("C:/Users/TumpudiKarthikeya/Desktop/pro/task_2/output.html", "w", encoding='utf-8') as f:
+        with open("f2_output.html", "w", encoding='utf-8') as f:
             f.write(result.cleaned_html)
         print("Markdown content saved to output.md")
         print("Clean HTML content saved to output.html")
@@ -103,27 +106,25 @@ def predict_urls(url, question, file_path):
 
 async def main():
     # Read from the response file for second filtering
-    with open("C:/Users/TumpudiKarthikeya/Desktop/pro/task_2/response.txt", "r", encoding='utf-8') as f:
-        final_urls = []
+    final_urls = []
+    with open("response.txt", "r", encoding='utf-8') as f:
+        all_urls = []
         for line in f:
             url, score = line.strip().split(',')
-            print(f"URL: {url}, Score: {score}")
-            try:
-                await crawl_website(url)  # Step 4: Crawl the URLs with high scores
-                extract_links("C:/Users/TumpudiKarthikeya/Desktop/pro/task_2/output.md", 
-                              "C:/Users/TumpudiKarthikeya/Desktop/pro/task_2/extracted_deep_links.txt", url)
-                filtered_response = predict_urls(url, "only types of business", 
-                                                  "C:/Users/TumpudiKarthikeya/Desktop/pro/task_2/extracted_deep_links.txt")
-                
-                # Ensure filtered_response is a list of dictionaries
-                if isinstance(filtered_response, list):
-                    final_urls.extend(filtered_response)  # Append the new URLs to final_urls
-                await asyncio.sleep(1)
-            except Exception as e:
-                print(f"Error crawling {url}: {e}")
-
-    # Write final URLs to a file after processing all URLs
-    with open("C:/Users/TumpudiKarthikeya/Desktop/pro/task_2/final_urls.txt", "w", encoding='utf-8') as f:
+            all_urls.append(url)
+    async with AsyncWebCrawler() as crawler:
+        results = await crawler.arun_many(
+        urls=all_urls,
+        config= CrawlerRunConfig(stream = False) # Default behavior
+    )
+    for res in results:
+        with open("f2_output.md", "w", encoding='utf-8') as f:
+            f.write(res.markdown)
+        extract_links("f2_output.md", "f2_extracted_deep_links.txt", res.url)
+        filtered_response = predict_urls(res.url, "all products", "f2_extracted_deep_links.txt")
+        final_urls.extend(filtered_response)
+    
+    with open("f2_final_urls.txt", "w", encoding='utf-8') as f:
         for item in final_urls:
             f.write(f"{item['url']},{item['score']}\n")
 

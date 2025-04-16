@@ -4,11 +4,14 @@ from collections import defaultdict
 from crawl4ai import AsyncWebCrawler
 import google.generativeai as genai
 import tldextract
+from dotenv import load_dotenv
+import os
 
 # Function to initialize Google GenAI
 def initialize_genai():
     """Initialize Google GenAI"""
-    apikey = 'AIzaSyCMfQV4VkjxA3hMItXgVIZwPpnIL7mJrDw'  
+    load_dotenv()
+    apikey = os.getenv("API_KEY")  
     genai.configure(api_key=apikey)
     model = genai.GenerativeModel('gemini-1.5-flash')
     return model
@@ -17,9 +20,9 @@ def initialize_genai():
 async def crawl_website(url):
     async with AsyncWebCrawler() as crawler:
         result = await crawler.arun(url=url)
-        with open("C:/Users/TumpudiKarthikeya/Desktop/pro/task_2/output.md", "w", encoding='utf-8') as f:
+        with open("output.md", "w", encoding='utf-8') as f:
             f.write(result.markdown)
-        with open("C:/Users/TumpudiKarthikeya/Desktop/pro/task_2/output.html", "w", encoding='utf-8') as f:
+        with open("output.html", "w", encoding='utf-8') as f:
             f.write(result.cleaned_html)
         print("Markdown content saved to output.md")
         print("Clean HTML content saved to output.html")
@@ -102,12 +105,12 @@ def predict_urls(url, question, file_path):
         return f"Error generating answer: {str(e)}"
 
 async def main():
-    url = "https://www.citadelplc.com/"
+    url = "https://www.amazon.com/"
     await crawl_website(url)  # Step 1: Crawl the website
-    extract_links("C:/Users/TumpudiKarthikeya/Desktop/pro/task_2/output.md", "C:/Users/TumpudiKarthikeya/Desktop/pro/task_2/extracted_deep_links.txt", url)  # Step 2: Extract links
-    response = predict_urls(url, "what are types of business", "C:/Users/TumpudiKarthikeya/Desktop/pro/task_2/extracted_deep_links.txt")  # Step 3: Generate answers
+    extract_links("output.md", "extracted_deep_links.txt", url)  # Step 2: Extract links
+    response = predict_urls(url, "all products", "extracted_deep_links.txt")  # Step 3: Generate answers
      # Store the response in a text file
-    with open("C:/Users/TumpudiKarthikeya/Desktop/pro/task_2/response.txt", "w", encoding='utf-8') as f:
+    with open("response.txt", "w", encoding='utf-8') as f:
         for item in response:
             f.write(f"{item['url']},{item['score']}\n")
 
