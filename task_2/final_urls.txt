@@ -1,0 +1,10 @@
+https://www.citadelplc.com/small-medium-enterprises,10
+https://www.citadelplc.com/corporate,9
+https://www.citadelplc.com/school-insurance,8
+https://www.citadelplc.com/hotel,8
+https://www.citadelplc.com/construction-and-engineering,8
+https://www.citadelplc.com/business,7
+https://www.citadelplc.com/liability,7
+https://www.citadelplc.com/motor-fleet,7
+https://www.citadelplc.com/employee-benefits,7
+https://www.citadelplc.com/marine-cargo,7
